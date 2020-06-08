@@ -1,8 +1,4 @@
 function popup() {
-
-
-
-
    const imgPopup = document.createElement('div'),
       workSection = document.querySelector('.content-block'),
       bigImg = document.createElement('img');
